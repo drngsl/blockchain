@@ -2,4 +2,5 @@
 # of appearance. Changing the order has an impact on the overall integration
 # process, which may cause wedges in the gate later.
 
+Flask>=0.10,!=0.11,<1.0  # BSD
 requests>=2.14.2 # Apache-2.0
